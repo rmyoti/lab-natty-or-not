@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Podcast Jornalistico sobre o Botafogo de Futebol e Regatas)
 
 ## 📒 Descrição
 Podcast jornalistico com informações sobre o Botafogo de Futebol e Regatas.
@@ -16,7 +16,7 @@ Tambem no ElevenLabs criei um som utilizando Baixos, Bateria e Guitarra que tive
 Levei estes audios gerados no ElevanLabs para o iMovie e fiz e edição unindo os audios.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Resultado Final do Podcast](https://github.com/rmyoti/lab-natty-or-not/blob/main/Bootcamp%20dio%20Desafio%20IA%20Podcast.mp3)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O projeto foi desafiador e estimulante, pois utilizar as novas ferramentas pela primeira vez considerando as limitações da utilização gratuitá do ElevanLabs limitou até onde foi possivel adequar a voz a realidade. Foi possivel ajustar a tempo dos creditos gratuitos esgotarem ao sotaque brasileiro. O final ficou bastante satisfatório.
